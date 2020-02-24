@@ -4,7 +4,7 @@ Cieľom prvého zadania je napísať prehľadový článok o možnostiach využi
 
 Vypracovanie prehľadového článku v sebe zahŕňa rešerš vedeckých článkov, počas vypracovania zadania by ste sa mali naučiť pracovať s databázami vedeckých článkov. Práve preto pri hodnotení sa berie do úvahy kvalita použitých zdrojov, pričom prioritne by ste mali pracovať s vedeckými článkami alebo knihami. Vedecké publikácie nájdete napr. na [Google Scholar](https://scholar.google.com), [Science Direct](https://www.sciencedirect.com), [Web of Science](https://webofknowledge.com), [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp).
 
-Pri písaní článku použite [IEEE šablónu pre vedecké práce v Computer Society Journals](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-computer-society-publications/). Rozsah článku je medzi (4 a 6 v IEEE šablóne - 2 strany na jedného študenta). Články odporúčame písať v LaTeXu, ktorá je technológia pre písanie vedeckých článkov. Písať môžete v slovenčine, za použitie anglického jazyka ale môžete získať bonusové body (max. 5 bodov).
+Pri písaní článku použite [IEEE šablónu pre vedecké práce v Computer Society Journals](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/ieee-article-templates/templates-for-computer-society-publications/). Rozsah článku je medzi 4 a 6 v IEEE šablóne - 2 strany na jedného študenta. Články odporúčame písať v LaTeXu, ktorá je technológia pre písanie vedeckých článkov. Písať môžete v slovenčine, za použitie anglického jazyka ale môžete získať bonusové body (max. 5 bodov).
 
 Odporúčaná štruktúra článku:
 
@@ -26,10 +26,10 @@ Odporúčaná štruktúra článku:
 7. Využitie umelej inteligencie v medicíne
 8. Využitie umelej inteligencie v meteorológii
 9. Využitie umelej inteligencie vo vývoji počítačových hier
-10. Využitie umelej inteligencie v riadení dopravy
-11. Využitie umelej inteligencie v plánovaní (scheduling)
+10. **Využitie umelej inteligencie v riadení dopravy – Arepiev, Horbunov, Ivanchyk**
+11. **Využitie umelej inteligencie v plánovaní (scheduling) – Beca, Dlugolinský**
 12. Využitie umelej inteligencie v spracovaní textu
-13. Využitie umelej inteligencie v spracovaní obrazu
+13. **Využitie umelej inteligencie v spracovaní obrazu – Dimunová, Ferenčík, Hovančíková**
 14. Využitie umelej inteligencie v spracovaní zvuku
 15. Využitie umelej inteligencie na sociálnych sieťach
 16. Využitie umelej inteligencie v médiach
@@ -37,15 +37,15 @@ Odporúčaná štruktúra článku:
 18. Využitie umelej inteligencie v podpore ľudí so zdravotným postihnutím
 19. Využitie umelej inteligencie vo vzdelávaní
 20. Využitie umelej inteligencie v robotike
-21. Využitie umelej inteligencie v odhalení porúch zariadení
+21. **Využitie umelej inteligencie v odhalení porúch zariadení – Čvirková, Gamrát**
 22. Využitie umelej inteligencie v inteligentných domoch
 24. Využitie umelej inteligencie v inteligentných mestách
 24. Využitie umelej inteligencie v letectve
-25. Využitie umelej inteligencie vo vývoji personálnych asistentov
+25. **Využitie umelej inteligencie vo vývoji personálnych asistentov – Aheiev, Banyk, Dombrovskiy**
 26. Využitie umelej inteligencie pre zákaznícke linky a služby
 27. Využitie umelej inteligencie v navigácii
-28. Využitie umelej inteligencie v poľnohospodárstve
-29. Využitie umelej inteligencie v armáde
+28. **Využitie umelej inteligencie v poľnohospodárstve – Dudiak, Halás, Hanušovský**
+29. **Využitie umelej inteligencie v armáde – Feješ, Jurč**
 30. **Využitie umelej inteligencie v športovej analýze – Ontko, Ontko**
 
 ## Deadline a odovzdávka
