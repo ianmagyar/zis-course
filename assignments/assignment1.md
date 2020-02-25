@@ -17,30 +17,30 @@ Odporúčaná štruktúra článku:
 
 ## Témy
 
-1. Využitie umelej inteligencie v riadení autonómnych vozidiel
+1. **Využitie umelej inteligencie v riadení autonómnych vozidiel – Konevych, Medvedz**
 2. Využitie umelej inteligencie v automobiloch (súčasné - neautonómne - autá)
-3. Využitie umelej inteligencie v ekonomike
+3. **Využitie umelej inteligencie v ekonomike – Kovalenko, Neimet**
 4. Využitie umelej inteligencie v priemysle
 5. Využitie umelej inteligencie v kyberbezpečnosti
 6. Využitie umelej inteligencie v marketingu
-7. Využitie umelej inteligencie v medicíne
+7. **Využitie umelej inteligencie v medicíne – Laincz, Pástor, Pazdič**
 8. Využitie umelej inteligencie v meteorológii
 9. Využitie umelej inteligencie vo vývoji počítačových hier
 10. **Využitie umelej inteligencie v riadení dopravy – Arepiev, Horbunov, Ivanchyk**
 11. **Využitie umelej inteligencie v plánovaní (scheduling) – Beca, Dlugolinský**
 12. Využitie umelej inteligencie v spracovaní textu
 13. **Využitie umelej inteligencie v spracovaní obrazu – Dimunová, Ferenčík, Hovančíková**
-14. Využitie umelej inteligencie v spracovaní zvuku
-15. Využitie umelej inteligencie na sociálnych sieťach
-16. Využitie umelej inteligencie v médiach
+14. **Využitie umelej inteligencie v spracovaní zvuku – Líšková, Molnár**
+15. **Využitie umelej inteligencie na sociálnych sieťach – Kaľata, Mačinga**
+16. **Využitie umelej inteligencie v médiach – Kuts, Molyboha, Napolskyi**
 17. Využitie umelej inteligencie v personalizácii obsahu streamovacích služieb
 18. Využitie umelej inteligencie v podpore ľudí so zdravotným postihnutím
 19. Využitie umelej inteligencie vo vzdelávaní
 20. Využitie umelej inteligencie v robotike
 21. **Využitie umelej inteligencie v odhalení porúch zariadení – Čvirková, Gamrát**
 22. Využitie umelej inteligencie v inteligentných domoch
-24. Využitie umelej inteligencie v inteligentných mestách
-24. Využitie umelej inteligencie v letectve
+23. Využitie umelej inteligencie v inteligentných mestách
+24. **Využitie umelej inteligencie v letectve – Krasnovská, Orlovský**
 25. **Využitie umelej inteligencie vo vývoji personálnych asistentov – Aheiev, Banyk, Dombrovskiy**
 26. Využitie umelej inteligencie pre zákaznícke linky a služby
 27. Využitie umelej inteligencie v navigácii
@@ -57,5 +57,5 @@ Za článok môžete získať maximálne 10 bodov, ktoré sa udeľujú nasledovn
 * prehľad výskumu v doméne – 3 body
 * úroveň použitého odborného štýlu – 2 body
 * kvalita použitých zdrojov – 2 body
-* práca so šablónou – 1 body
+* práca so šablónou – 1 bod
 * prezentácia a obhajoba – 2 body
