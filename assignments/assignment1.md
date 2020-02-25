@@ -20,11 +20,11 @@ Odporúčaná štruktúra článku:
 1. **Využitie umelej inteligencie v riadení autonómnych vozidiel – Konevych, Medvedz**
 2. Využitie umelej inteligencie v automobiloch (súčasné - neautonómne - autá)
 3. **Využitie umelej inteligencie v ekonomike – Kovalenko, Neimet**
-4. Využitie umelej inteligencie v priemysle
-5. Využitie umelej inteligencie v kyberbezpečnosti
-6. Využitie umelej inteligencie v marketingu
+4. **Využitie umelej inteligencie v priemysle – Tomko, Ušala**
+5. **Využitie umelej inteligencie v kyberbezpečnosti – Onda, Sekerák, Szoták**
+6. **Využitie umelej inteligencie v marketingu – Samuhel, Varga**
 7. **Využitie umelej inteligencie v medicíne – Laincz, Pástor, Pazdič**
-8. Využitie umelej inteligencie v meteorológii
+8. **Využitie umelej inteligencie v meteorológii – Somak, Tsepkov, Zavidniuk**
 9. Využitie umelej inteligencie vo vývoji počítačových hier
 10. **Využitie umelej inteligencie v riadení dopravy – Arepiev, Horbunov, Ivanchyk**
 11. **Využitie umelej inteligencie v plánovaní (scheduling) – Beca, Dlugolinský**
@@ -35,14 +35,14 @@ Odporúčaná štruktúra článku:
 16. **Využitie umelej inteligencie v médiach – Kuts, Molyboha, Napolskyi**
 17. Využitie umelej inteligencie v personalizácii obsahu streamovacích služieb
 18. Využitie umelej inteligencie v podpore ľudí so zdravotným postihnutím
-19. Využitie umelej inteligencie vo vzdelávaní
-20. Využitie umelej inteligencie v robotike
+19. **Využitie umelej inteligencie vo vzdelávaní – Smilhain, Vinco**
+20. **Využitie umelej inteligencie v robotike – Radovanovich, Vodopianov**
 21. **Využitie umelej inteligencie v odhalení porúch zariadení – Čvirková, Gamrát**
 22. Využitie umelej inteligencie v inteligentných domoch
-23. Využitie umelej inteligencie v inteligentných mestách
+23. **Využitie umelej inteligencie v inteligentných mestách – Serediuk, Varfolomeiev**
 24. **Využitie umelej inteligencie v letectve – Krasnovská, Orlovský**
 25. **Využitie umelej inteligencie vo vývoji personálnych asistentov – Aheiev, Banyk, Dombrovskiy**
-26. Využitie umelej inteligencie pre zákaznícke linky a služby
+26. **Využitie umelej inteligencie pre zákaznícke linky a služby – Perignáth, Želonka**
 27. Využitie umelej inteligencie v navigácii
 28. **Využitie umelej inteligencie v poľnohospodárstve – Dudiak, Halás, Hanušovský**
 29. **Využitie umelej inteligencie v armáde – Feješ, Jurč**
