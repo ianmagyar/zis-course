@@ -18,7 +18,7 @@ Cvičenia sú v pondelok o 9:10 v miestnosti PC1, o 15:10 v miestnosti PC17 a v 
 | Týždeň                       | Prednáška | Cvičenie                                     | Zadania               |
 |------------------------------|-----------|----------------------------------------------|-----------------------|
 | Týždeň 1<br>17. 2. - 23. 2.  | [Úvod do inteligencie systémov](lectures/Lecture01-Uvod-do-IS.pdf) | organizácia predmetu, [základy jazyka Python](labs/lab01-getting-started.ipynb)  |                       |
-| Týždeň 2<br>24. 2. - 1. 3.   |           | [algoritmizácia a údajové štruktúry v Pythone](labs/lab02-data-structures-and-algorithmization.ipynb) | [zverejnenie zadania 1](assignments/assignment1.md) |
+| Týždeň 2<br>24. 2. - 1. 3.   | [Základné pojmy inteligentných systémov a robotika](lectures/Lecture02-Definicie-robotika.pdf)          | [algoritmizácia a údajové štruktúry v Pythone](labs/lab02-data-structures-and-algorithmization.ipynb) | [zverejnenie zadania 1](assignments/assignment1.md) |
 | Týždeň 3<br>2. 3. - 8. 3.    |           | Microsoft Machine Learning studio            |                       |
 | Týždeň 4<br>9. 3. - 15. 3.   |           | expertné systémy                             |                       |
 | Týždeň 5<br>16. 3. - 22. 3.  |           | neistota v umelej inteligencii               |                       |
