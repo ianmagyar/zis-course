@@ -38,7 +38,7 @@ Odporúčaná štruktúra článku:
 19. **Využitie umelej inteligencie vo vzdelávaní – Smilhain, Vinco**
 20. **Využitie umelej inteligencie v robotike – Radovanovich, Vodopianov**
 21. **Využitie umelej inteligencie v odhalení porúch zariadení – Čvirková, Gamrát**
-22. Využitie umelej inteligencie v inteligentných domoch
+22. **Využitie umelej inteligencie v inteligentných domoch – Matush**
 23. **Využitie umelej inteligencie v inteligentných mestách – Serediuk, Varfolomeiev**
 24. **Využitie umelej inteligencie v letectve – Krasnovská, Orlovský**
 25. **Využitie umelej inteligencie vo vývoji personálnych asistentov – Aheiev, Banyk, Dombrovskiy**
