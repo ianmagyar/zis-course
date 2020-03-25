@@ -23,13 +23,13 @@ Cvičenia sú v pondelok o 9:10 v miestnosti PC1, o 15:10 v miestnosti PC17 a v 
 | Týždeň 2<br>24. 2. - 1. 3.   | [Základné pojmy inteligentných systémov a robotika](lectures/Lecture02-Definicie-robotika.pdf)          | [algoritmizácia a údajové štruktúry v Pythone](labs/lab02-data-structures-and-algorithmization.ipynb) | [zverejnenie zadania 1](assignments/assignment1.md) |
 | Týždeň 3<br>2. 3. - 8. 3.    | [Základné metódy inteligentných systémov](lectures/Lecture03-Základné-pojmy-inteligencie-systémov.pdf)<br>[video záznam](https://www.youtube.com/watch?v=YgDjzY6TNLQ) | [Microsoft Machine Learning studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/create-experiment)            |                       |
 | Týždeň 4<br>9. 3. - 15. 3.   | [Znalostné systémy, strojové učenie pre inteligenciu strojov](lectures/Lecture04-Znalostné-systémy-strojové-učenie-pre-inteligenciu-strojov.pdf)<br>[video záznam](https://www.youtube.com/watch?v=olKNaJhunJE) | [expertné systémy](labs/lab04-expert-systems.ipynb)                             |                       |
-| Týždeň 5<br>16. 3. - 22. 3.  | [Znalostné systémy, strojové učenie pre inteligenciu strojov](lectures/Lecture04-Znalostné-systémy-strojové-učenie-pre-inteligenciu-strojov.pdf)<br>[video záznam](https://www.youtube.com/watch?v=jLxJ3Tx4xN0) | [inferencia pre expertné systémy](labs/lab05-inference-in-expert-systems.ipynb)              |                       |
-| Týždeň 6<br>23. 3. - 29. 3.  |           | [neurónové siete](labs/lab06-perceptron.ipynb)                              | odovzdávka zadania 1  |
-| Týždeň 7<br>30. 3. - 5. 4.   |           | fuzzy systémy                                | zverejnenie zadania 2 |
-| Týždeň 8<br>6. 4. - 12. 4.   |           | evolučné algoritmy                           | zápočtová písomka     |
-| Týždeň 9<br>13. 4. - 19. 4.  |           | Veľká Noc                                    |                       |
-| Týždeň 10<br>20. 4. - 26. 4. |           | reinforcement learning                       |                       |
-| Týždeň 11<br>27. 4. - 3. 5.  |           | prezentácia článkov                          |                       |
+| Týždeň 5<br>16. 3. - 22. 3.  | [Znalostné systémy, strojové učenie pre inteligenciu strojov](lectures/Lecture04-Znalostné-systémy-strojové-učenie-pre-inteligenciu-strojov.pdf)<br>[video záznam](https://www.youtube.com/watch?v=jLxJ3Tx4xN0) |              |                       |
+| Týždeň 6<br>23. 3. - 29. 3.  |           | [inferencia pre expertné systémy](labs/lab05-inference-in-expert-systems.ipynb)                              | odovzdávka zadania 1  |
+| Týždeň 7<br>30. 3. - 5. 4.   |           | [neurónové siete](labs/lab06-perceptron.ipynb)                                | zverejnenie zadania 2 |
+| Týždeň 8<br>6. 4. - 12. 4.   |           | prezentácia článkov                          |                       |
+| Týždeň 9<br>13. 4. - 19. 4.  |           | Veľká Noc                                    |   zápočtová písomka   |
+| Týždeň 10<br>20. 4. - 26. 4. |           | fuzzy systémy                                |                       |
+| Týždeň 11<br>27. 4. - 3. 5.  |           | evolučné algoritmy                           |                       |
 | Týždeň 12<br>4. 5. - 10. 5.  |           | odovzdávanie zadaní                          | odovzdávka zadania 2  |
 | Týždeň 13<br>11. 5. - 17. 5. |           | zápočtový týždeň                             |                       |
 
