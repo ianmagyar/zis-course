@@ -26,7 +26,7 @@ Cvičenia sú v pondelok o 9:10 v miestnosti PC1, o 15:10 v miestnosti PC17 a v 
 | Týždeň 5<br>16. 3. - 22. 3.  | [Znalostné systémy, strojové učenie pre inteligenciu strojov](lectures/Lecture04-Znalostné-systémy-strojové-učenie-pre-inteligenciu-strojov.pdf)<br>[video záznam](https://www.youtube.com/watch?v=jLxJ3Tx4xN0) |              |                       |
 | Týždeň 6<br>23. 3. - 29. 3.  | [Základy neurónových sietí](lectures/Lecture05-Neuronove-siete-zaklady.pdf)<br>[video záznam](https://www.youtube.com/watch?v=wLoYUMG7khA) | [inferencia pre expertné systémy](labs/lab05-inference-in-expert-systems.ipynb)                              | odovzdávka zadania 1  |
 | Týždeň 7<br>30. 3. - 5. 4.   | [Fuzzy systémy](lectures/Lecture06-Fuzzy-systemy.pdf)<br>[video záznam](https://www.youtube.com/watch?v=LH6Pte5U-mo) | [neurónové siete](labs/lab06-perceptron.ipynb)                                |               |
-| Týždeň 8<br>6. 4. - 12. 4.   | Veľká Noc | prezentácia článkov                          | zverejnenie zadania 2 |
+| Týždeň 8<br>6. 4. - 12. 4.   | Veľká Noc | prezentácia článkov                          | [zverejnenie zadania 2](assignments/assignment2.md) |
 | Týždeň 9<br>13. 4. - 19. 4.  | [Evolučné prístupy v inteligentných systémoch](lectures/Lecture07-Evolučné-prístupy-v-inteligentnych-systemoch.pdf) | Veľká Noc                                    |   zápočtová písomka   |
 | Týždeň 10<br>20. 4. - 26. 4. | [Moderné technológie pre inteligentné systémy](lectures/Lecture08-ai-cloud.pdf)<br>[video záznam](https://www.youtube.com/watch?v=mowZ5cI903s)          | fuzzy systémy                                |                       |
 | Týždeň 11<br>27. 4. - 3. 5.  | [Počítačové prostriedky a ich vplyv na inteligentné systémy](lectures/Lecture09-pocitacove-prostriedky-a-ich-vplyv-na-inteligentne-systemy.pdf)<br>[video záznam](https://www.youtube.com/watch?v=4oD5w5Ej3Js)          | evolučné algoritmy                           |                       |
@@ -40,7 +40,7 @@ Celkové hodnotenie predmetu je 100 bodov (40 + 60 bodov); študent musí získa
 Počas semestra odovzdá každý študent dva zadania:
 
 1. [prehľadový článok o využití umelej inteligencie](assignments/assignment1.md) (10 b),
-2. aplikácia metód umelej inteligencie na riešenie problému (15 b).
+2. [aplikácia metód umelej inteligencie na riešenie problému](assignments/assignment2.md) (15 b).
 
 Okrem toho študent absolvuje zápočtovú písomku počas semestra za 15 bodov.
 
