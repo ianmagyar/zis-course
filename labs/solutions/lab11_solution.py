@@ -21,7 +21,7 @@ def generate_starting_generation():
 
 
 def pair(generation):
-    return [(generation[i], generation[i + 1])
+    return [(generation[2 * i], generation[2 * i + 1])
             for i in range(POPULATION_SIZE // 2)]
 
 
