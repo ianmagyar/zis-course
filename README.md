@@ -46,7 +46,7 @@ Okrem toho študent absolvuje zápočtovú písomku počas semestra za 15 bodov.
 
 Stav priebežného hodnotenia nájdete v [tomto dokumente](https://docs.google.com/spreadsheets/d/1dg2-HonQxR2eJZsMryouFJS3XVPIQKovPsA77EBM5S8/edit?usp=sharing).
 
-Otázky na skúšku nájdete na [tomto odkaze](exams/otazky_na_skusku.pdf).
+Otázky na skúšku nájdete na [tomto odkaze](exams/otazky_na_skusku.pdf). Podrobnejšie informácie o skúške [sú dostupné tu](exams/exam_info.md).
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
