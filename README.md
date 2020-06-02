@@ -48,6 +48,10 @@ Stav priebežného hodnotenia nájdete v [tomto dokumente](https://docs.google.c
 
 Otázky na skúšku nájdete na [tomto odkaze](exams/otazky_na_skusku.pdf). Podrobnejšie informácie o skúške [sú dostupné tu](exams/exam_info.md).
 
+Otázky z predošlých termínov:
+
+* [2. 6. 2020](exams/02-06-2020.pdf)
+
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
 * Návrat a kol.: Umelá Inteligencia, 2002, STU Bratislava
