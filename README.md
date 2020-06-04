@@ -51,6 +51,7 @@ Otázky na skúšku nájdete na [tomto odkaze](exams/otazky_na_skusku.pdf). Podr
 Otázky z predošlých termínov:
 
 * [2. 6. 2020](exams/02-06-2020.pdf)
+* 4\. 6\. 2020 - [skupina A](exams/4-6-2020A.pdf); [skupina B](exams/4-6-2020B.pdf)
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
