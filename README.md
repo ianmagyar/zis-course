@@ -52,6 +52,9 @@ Otázky z predošlých termínov:
 
 * [2. 6. 2020](exams/02-06-2020.pdf)
 * 4\. 6\. 2020 - [skupina A](exams/4-6-2020A.pdf); [skupina B](exams/4-6-2020B.pdf)
+* 11\. 6\. 2020 - [skupina A](exams/11-6-2020A.pdf); [skupina B](exams/11-6-2020B.pdf)
+* [18. 6. 2020](exams/18-6-2020.pdf)
+* [25. 6. 2020](exams/25-6-2020.pdf)
 
 ## Odporúčaná literatúra <a name="textbooks"></a>
 
